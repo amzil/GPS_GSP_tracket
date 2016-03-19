@@ -1,0 +1,33 @@
+Command git :
+
+git init
+
+git add "nom-fichier"
+
+git commit --message" description"
+
+git status
+
+git log
+
+Bronchment :
+
+git branch "nom de la branch"// cree une branch
+
+git checkout "nom de la branch" //selectionner une branch
+
+
+Upload :
+
+…or create a new repository on the command line
+
+echo "# Projet2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/amzil/Projet2.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/amzil/Projet2.git
+git push -u origin master
