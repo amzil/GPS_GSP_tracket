@@ -2,10 +2,10 @@
 ---------------
   + Pricipale commandes :
 	git init // cmd pour indiquée que c'est le dossier master
-	git add "nom-fichier" //selectionner une fichier pour faire la commiter
+	git add "nom-fichier" //selectionner une fichier pour la commiter
 	git commit --message" description"// faire un commit et ajouter une desciption 
-	git remote add origin https://github.com/amzil/Projet2.git // ajouter un serveru ou ont va uploder le fichier
-	git push -u origin master // ajouter le fichier e tle commit dans le serveru githup
+	git remote add origin https://github.com/amzil/Projet2.git // ajouter un serveur ou ont va uploder le fichier
+	git push -u origin master // ajouter le fichier et le commit dans le serveru githup
 
 _______________
 
