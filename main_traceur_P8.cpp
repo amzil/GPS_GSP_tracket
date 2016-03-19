@@ -222,6 +222,7 @@ int main(void)
 }
 
 
+
 void extrat(char str2[],char str1[])
 {
   int i=0,j=0,n=0,t=0;
