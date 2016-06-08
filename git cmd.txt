@@ -1,0 +1,42 @@
+﻿Command git :
+---------------
+  + Pricipale commandes :
+	git init // cmd pour indiquée que c'est le dossier master
+	git add "nom-fichier" //selectionner une fichier pour la commiter
+	git commit --message" description"// faire un commit et ajouter une desciption 
+	git remote add origin https://github.com/amzil/Projet2.git // ajouter un serveur ou ont va uploder le fichier
+	git push -u origin master // ajouter le fichier et le commit dans le serveru githup
+
+_______________
+
+git init
+
+git add "nom-fichier"
+
+git commit --message" description"
+
+git status
+
+git log
+
+Bronchment :
+
+git branch "nom de la branch"// cree une branch
+
+git checkout "nom de la branch" //selectionner une branch
+
+
+Upload :
+
+…or create a new repository on the command line
+
+echo "# Projet2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/amzil/Projet2.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/amzil/Projet2.git
+git push -u origin master
