@@ -9,15 +9,15 @@
 
 _______________
 
-git init
+1- git init
 
-git add "nom-fichier"
+2- git add "nom-fichier"
 
-git commit --message" description"
+3- git commit --message" description"
 
-git status
+4- git status
 
-git log
+5- git log
 
 Bronchment :
 
